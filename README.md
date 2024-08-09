@@ -5,9 +5,7 @@
 
 [made in favela - hungria hip hop](https://youtu.be/TaChAVNEDPU?si=lhw9LnG61bdpx_NU)
 
-![testando](https://tenor.com/bLlDs.gif)
-
-
+![loop](https://media1.tenor.com/m/R5-LQyl_IxsAAAAC/subaru-wrx.gif)
 
 
 
