@@ -4,7 +4,7 @@ let diametro = 15;
 
 let velocidadexBolinha = 6;
 let velocidadeyBolinha = 6;
-
+srd
 function setup() {
   createCanvas(600, 400);
 }
